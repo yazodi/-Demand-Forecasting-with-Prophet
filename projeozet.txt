@@ -1,0 +1,67 @@
+📦 Proje Özeti
+Veri Seti: 5 yıl boyunca 10 mağazada satılan 50 ürünün günlük satış verileri.
+
+Amaç: Her mağaza-ürün kombinasyonu için sonraki 3 ayın satışlarını tahmin etmek.
+
+Değerlendirme Metrikleri: SMAPE (Symmetric Mean Absolute Percentage Error)
+
+Veri Özellikleri: Temiz, eksiksiz ve düzenli zaman serisi verisi; bu da modelleme sürecini kolaylaştırır.
+Kaggle
++2
+Kaggle
++2
+Kaggle
++2
+arXiv
++2
+GitHub
++2
+Medium
++2
+
+🎯 Neden Bu Proje Uygun?
+Zaman Serisi Analizi: ARIMA, Prophet, XGBoost, LSTM gibi farklı zaman serisi modelleme tekniklerini uygulayabilirsin.
+
+Özellik Mühendisliği: Tarihsel verilerden mevsimsellik, trend ve diğer zamanla ilgili özellikleri çıkarma pratiği yapabilirsin.
+
+Model Karşılaştırması: Farklı modelleme tekniklerini karşılaştırarak en iyi performansı elde edebilirsin.
+
+Gerçek Dünya Uygulaması: Perakende sektöründe talep tahmini, envanter yönetimi ve satış stratejileri için kritik bir konudur.
+Medium
+
+🛠️ Uygulanabilecek Teknikler
+Özellik Mühendisliği:
+
+Tarihsel satış verilerinden hareketli ortalamalar, gecikmeli özellikler ve mevsimsel göstergeler oluşturma.
+
+Modelleme:
+
+ARIMA/SARIMA modelleri ile zaman serisi tahmini.
+
+Facebook Prophet ile trend ve mevsimselliği modelleme.
+
+XGBoost, LightGBM gibi makine öğrenimi modelleri ile tahmin.
+
+LSTM gibi derin öğrenme modelleri ile sekans verilerini işleme.
+
+Değerlendirme:
+
+SMAPE, MAE, RMSE gibi metriklerle model performansını değerlendirme.
+arXiv
++1
+Medium
++1
+Medium
++2
+GitHub
++2
+Medium
++2
+
+📚 Ek Kaynaklar
+Kaggle Yarışma Sayfası
+
+GitHub Örnek Proje 1
+
+GitHub Örnek Proje 2
+
